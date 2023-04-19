@@ -4,6 +4,6 @@
 
 #### Si consideras útil la lectura, apóyalo [★ Star] Gracias!!!
 
-## Hola!!
+## Un poco sobre mi!!
 ### Full-stack Developer
 ### En mi perfil de GitHub tienes más.
